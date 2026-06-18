@@ -229,7 +229,3 @@ export default function Assistant() {
     </div>
   )
 }
-      </main>
-    </div>
-  )
-}
