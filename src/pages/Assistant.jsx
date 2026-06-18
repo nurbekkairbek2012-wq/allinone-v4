@@ -79,7 +79,7 @@ export default function Assistant() {
           'X-Title': 'IELTS AllInOne',
         },
         body: JSON.stringify({
-          model: 'google/gemma-3-27b-it:free',
+          model: 'deepseek/deepseek-chat:free',
           messages: [
             { role: 'system', content: SYSTEM_PROMPT },
             ...history,
@@ -225,6 +225,10 @@ export default function Assistant() {
             AI can make mistakes — always verify band descriptors with official IELTS materials
           </div>
         </div>
+      </main>
+    </div>
+  )
+}
       </main>
     </div>
   )
