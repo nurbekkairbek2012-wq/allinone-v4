@@ -1,0 +1,206 @@
+═══════════════════════════════════════════════════════════════
+IELTS ALLINONE — LISTENING TEST 1
+SCRIPT FOR RECORDING
+Riverside Community Centre
+═══════════════════════════════════════════════════════════════
+
+ИНСТРУКЦИЯ ДЛЯ ОЗВУЧКИ:
+- Читай в роли администратора Sandra (женский голос) и клиента
+- [ПАУЗА 2с] = тихо подожди 2 секунды
+- [ПАУЗА 4с] = 4 секунды (пока слушатель пишет ответ)
+- Слова помеченные *** — это ДИРАКТОРЫ, после них идёт исправление
+- Говори естественно, немного торопливо, как настоящий диалог
+- Общая длина: ~6-8 минут
+
+═══════════════════════════════════════════════════════════════
+[ПАУЗА 3с — начало записи]
+
+NARRATOR:
+You will hear a conversation between a receptionist at a
+community centre and a new member registering for membership.
+First you have some time to look at questions one to five.
+
+[ПАУЗА 8с]
+
+Now listen carefully and answer questions one to five.
+
+[ПАУЗА 2с]
+
+═══════════════════════════════════════════════════════════════
+SECTION 1 — FORM COMPLETION (Questions 1–5)
+═══════════════════════════════════════════════════════════════
+
+SANDRA:
+Good morning! Welcome to the Riverside Community Centre.
+My name is Sandra. How can I help you today?
+
+CALLER:
+Hi Sandra, I'd like to register for a membership please.
+
+SANDRA:
+Of course! Let me just take down some details.
+Could I start with your full name?
+
+CALLER:
+Yes, it's Daniel Hartwell. H-A-R-T-W-E-L-L.
+
+SANDRA:
+Thank you, Daniel. And could I take a contact number?
+
+CALLER:
+Sure, it's 07 double 4, 391 582.
+
+SANDRA:
+Perfect. Now, regarding the membership fee —
+our standard monthly rate is forty-five pounds.
+
+[ПАУЗА 2с]
+
+Oh, I do apologise — I need to correct that.
+We updated our pricing just last week.
+The monthly fee is actually thirty-five pounds.
+
+[ПАУЗА 4с — Q1: ответ "35" или "thirty-five"]
+
+CALLER:
+That's great, much more affordable. And what are your
+opening hours?
+
+SANDRA:
+We're open Monday through Friday, from six AM to nine PM.
+
+[ПАУЗА 4с — Q2: ответ "6 AM to 9 PM"]
+
+CALLER:
+What about weekends?
+
+SANDRA:
+At the moment we open on Saturdays as well —
+
+[ПАУЗА 1с]
+
+— actually, I'm sorry, that's no longer the case.
+We are closed on Saturdays now due to ongoing renovation work.
+We hope to reopen weekends by August.
+
+[ПАУЗА 4с — Q3: ответ "closed"]
+
+CALLER:
+No problem. Could you tell me where the gym is?
+I'm mainly here for the gym.
+
+SANDRA:
+Of course! The gym is located on the second floor —
+
+[ПАУЗА 1с]
+
+— oh wait, they've moved it since the refurbishment.
+It's now on the third floor. Second floor is all studios now.
+
+[ПАУЗА 4с — Q4: ответ "third" или "3rd"]
+
+CALLER:
+Brilliant. And when do the induction classes start?
+I'd need one before using the equipment.
+
+SANDRA:
+The next available induction is on the fifteenth —
+
+[ПАУЗА 1с]
+
+— let me just double-check that.
+Yes, I do apologise, it's actually the seventeenth.
+The fifteenth is fully booked.
+
+[ПАУЗА 4с — Q5: ответ "17th" или "seventeenth"]
+
+CALLER:
+The seventeenth works perfectly for me.
+
+SANDRA:
+Wonderful! I'll get that booked in for you.
+
+[ПАУЗА 3с]
+
+═══════════════════════════════════════════════════════════════
+NARRATOR:
+Now look at questions six to eight.
+
+[ПАУЗА 6с]
+
+═══════════════════════════════════════════════════════════════
+SECTION 2 — MAP LABELING (Questions 6–8)
+═══════════════════════════════════════════════════════════════
+
+SANDRA:
+Let me also give you a quick tour of the layout,
+so you know where everything is on arrival.
+
+If you come through the main entrance, you'll see
+the reception desk straight ahead.
+
+Now, on the ground floor to your left —
+that's the larger of the two ground floor rooms —
+you'll find the swimming pool.
+
+[ПАУЗА 4с — Q6/MapA: ответ "Swimming pool"]
+
+CALLER:
+And is there somewhere to get a coffee after a swim?
+
+SANDRA:
+Yes! Right next to the swimming pool, on your right —
+still on the ground floor — we have our café.
+It serves hot drinks and light snacks throughout the day.
+
+[ПАУЗА 4с — Q7/MapB: ответ "Café"]
+
+CALLER:
+Perfect. And you mentioned the gym is on the third floor?
+
+SANDRA:
+That's correct. Take the lift or stairs to the third floor
+and the gym takes up the entire floor.
+You really can't miss it — it's directly above the studios.
+
+[ПАУЗА 4с — Q8/MapC: ответ "Gym"]
+
+CALLER:
+This all sounds great. Thank you so much, Sandra.
+
+SANDRA:
+My pleasure, Daniel! Don't forget to bring two forms of ID
+when you come in for your induction on the seventeenth.
+We look forward to seeing you!
+
+CALLER:
+Will do. Goodbye!
+
+SANDRA:
+Goodbye!
+
+[ПАУЗА 3с]
+
+═══════════════════════════════════════════════════════════════
+NARRATOR:
+That is the end of the Listening test.
+
+[ПАУЗА 2с — конец записи]
+═══════════════════════════════════════════════════════════════
+
+ОТВЕТЫ (не читать вслух):
+Q1 — 35 / thirty-five pounds
+Q2 — 6 AM to 9 PM
+Q3 — closed
+Q4 — third (floor)
+Q5 — 17th / seventeenth
+Q6 — Swimming pool
+Q7 — Café
+Q8 — Gym
+
+ДИРАКТОРЫ В СКРИПТЕ:
+1. "forty-five pounds" → исправление: "thirty-five"
+2. "open on Saturdays" → исправление: "closed on Saturdays"
+3. "second floor" → исправление: "third floor"
+4. "fifteenth" → исправление: "seventeenth"
+═══════════════════════════════════════════════════════════════
