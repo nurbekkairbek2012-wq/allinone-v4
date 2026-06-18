@@ -305,7 +305,7 @@ Reply ONLY with valid JSON, no markdown, no extra text:
           'X-Title': 'IELTS AllInOne',
         },
         body: JSON.stringify({
-          model: 'google/gemma-3-27b-it:free',
+          model: 'deepseek/deepseek-chat:free',
           messages: [{ role: 'user', content: prompt }],
           max_tokens: 600,
           temperature: 0.3,
